@@ -8,6 +8,9 @@ public class FirstspingbootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstspingbootApplication.class, args);
+		
+		
+		
 	}
 
 }
